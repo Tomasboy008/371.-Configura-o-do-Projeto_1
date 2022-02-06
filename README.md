@@ -1,4 +1,4 @@
-# 371.-Configura-o-do-Projeto_1
+# 371.-Configura-o-do-Projeto_JavaFX_1
 Caixa de Botoes
 package basico;
 
